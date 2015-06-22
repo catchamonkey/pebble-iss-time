@@ -1,0 +1,18 @@
+{
+  "uuid": "2374cd94-3e88-4a95-966a-b3481c895a64",
+  "shortName": "pebble-iss-time",
+  "longName": "pebble-iss-time",
+  "companyName": "catchamonkey",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
