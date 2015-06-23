@@ -3,6 +3,7 @@
   "shortName": "pebble-iss-time",
   "longName": "pebble-iss-time",
   "companyName": "catchamonkey",
+  "capabilities": [ "location" ],
   "versionLabel": "1.0",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt"],
